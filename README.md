@@ -23,4 +23,4 @@ How to reach me:
 
 - 📧 Drop me an email: matteo [DOT] bortoletto [AT] vis [DOT] uni-stuttgart [DOT] de
 - 💬 Follow me on [Twitter/X](https://x.com/MattBorto)
-- 🔗 Read more about me at my [website](matteobortoletto.org).
+- 🔗 Read more about me at my [website](https://matteobortoletto.org).
