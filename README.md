@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 PhD candidate in Computer Science
-- 🔎 Research interests: theory of mind, human-AI collaboration, socially-aware LLMs, mechanistic interpretability
+- 💻 I am a PhD candidate in Computer Science
+- 🔎 My research interests: theory of mind, human-AI collaboration, socially-aware LLMs, mechanistic interpretability
 - 🇮🇹 Made in Italy
 
 How to reach me: 
