@@ -1,14 +1,10 @@
 ## Hi there, I'm Matteo :) 
 
-- 💻 PhD candidate in Computer Science
-- 🔎 Research interests: theory of mind, human-AI collaboration, socially-aware LLMs, mechanistic interpretability
+- 💻 I have a PhD in Computer Science
+- 🔎 Research interests: theory of mind, human-AI collaboration, socially-aware AI, interpretability
 - 🇮🇹 Made in Italy
 
-How to reach me: 
-
-- 📬 Drop me an email: matteo [DOT] bortoletto [AT] vis [DOT] uni-stuttgart [DOT] de
-- 💬 Follow me on [Twitter/X](https://x.com/MattBorto)
-- 🔗 Read more about me at my [website](https://matteobortoletto.org).
+More info and contacts at https://matteobortoletto.org.
 
 Many of my **projects** are hosted in my group's git [server](https://git.hcics.simtech.uni-stuttgart.de/public-projects):
 
