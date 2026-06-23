@@ -6,7 +6,7 @@
 
 More info and contacts at https://matteobortoletto.org.
 
-Many of my **projects** are hosted in my group's git [server](https://git.hcics.simtech.uni-stuttgart.de/public-projects):
+Many of my PhD projects are hosted in this git [server](https://git.hcics.simtech.uni-stuttgart.de/public-projects):
 
 - ProToM: Promoting Prosocial Behaviour via Theory of Mind-Informed Feedback (**ACL 2026 Findings**) [[code]](https://git.hcics.simtech.uni-stuttgart.de/public-projects/ProToM)
 - ToM-SSI: Evaluating Theory of Mind in Situated Social Interactions (**EMNLP 2025**) [[code]](https://git.hcics.simtech.uni-stuttgart.de/public-projects/tom-ssi)
