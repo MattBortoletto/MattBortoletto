@@ -1,8 +1,7 @@
 ## Hi there, I'm Matteo :) 
 
-- 💻 I have a PhD in Computer Science
-- 🔎 Research interests: theory of mind, human-AI collaboration, socially-aware AI, interpretability
-- 🇮🇹 Made in Italy
+- 👨🏼‍💻 Currently Research Engineer at [kapa.ai](kapa.ai)
+- 💻 PhD in Computer Science
 
 More info and contacts at https://matteobortoletto.org.
 
